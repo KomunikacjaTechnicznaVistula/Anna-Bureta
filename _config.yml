@@ -1,15 +1,15 @@
-name: Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
-title: Morris Mini Owner's Manual
+name: Anna Bureta, Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
+title: Charts and diagrams
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: dark
 
-# logo: "/assets/images/Morris_badge.png"
+# logo: ".png"
 
 aux_links:
   "Source repository on GitHub":
-    - "//github.com/KomunikacjaTechnicznaVistula/morris-mini"
+    - "//github.com/KomunikacjaTechnicznaVistula/Anna-Bureta"
 
 back_to_top: true
 back_to_top_text: "Back to top"

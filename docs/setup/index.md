@@ -8,7 +8,7 @@ has_children: true
 
 # Setup
 
-You can set up the following:
+You can either choose a standard layout or set up the following:
 
 - custom layouts
 - custom hotkeys that let you move between the layouts.

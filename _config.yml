@@ -1,11 +1,9 @@
-name: Anna Bureta, Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
-title: Flowcharts and diagrams
-description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
+name: Anna Bureta
+title: FancyZones User Guide
+description: A guide on how to set up FancyZones, a window manager for Windows users
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
-color_scheme: dark
-
-logo: "afib-icon.png"
+color_scheme: ab
 
 aux_links:
   "Source repository on GitHub":
@@ -14,4 +12,4 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
+footer_content: This document was created as part of my technical writing training at Vistula University.

@@ -38,7 +38,7 @@
                 </tbody>
             </tgroup>
         </table>
-        <p class="- topic/p ">First</p>
+        <p class="- topic/p ">This is my web page. <xref class="- topic/xref " format="html" href="http://www.sworn-translator.pl" scope="external"/></p>
     </conbody>
 <related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>doing something</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="reference"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>my first reference</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="r_my_first_reference" oid="r_my_first_reference" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my first reference</ph></title>
@@ -46,7 +46,7 @@
     <refbody class="- topic/body        reference/refbody ">
         <table class="- topic/table " colsep="1" frame="all" id="unique_3_Connect_42_table_b2s_qvz_vsb" nd:nd-id="table_b2s_qvz_vsb" rowsep="1">
             <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My first table</ph></title>
-            <desc class="- topic/desc ">This is my table description</desc>
+            <desc class="- topic/desc " id="unique_3_Connect_42_desc_ejv_rzg_wsb" nd:nd-id="desc_ejv_rzg_wsb">This is my table description</desc>
             <tgroup class="- topic/tgroup " cols="3">
                 <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;11:65" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_my_first_reference.dita" style="width:33.3333%;"/>
                 <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;12:70" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_my_first_reference.dita" style="width:33.3333%;"/>

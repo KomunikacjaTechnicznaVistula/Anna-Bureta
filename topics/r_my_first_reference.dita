@@ -6,7 +6,7 @@
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_b2s_qvz_vsb">
             <title>My first table</title>
-            <desc>This is my table description</desc>
+            <desc id="desc_ejv_rzg_wsb">This is my table description</desc>
             <tgroup cols="3">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="newCol2" colnum="2" colwidth="1*"/>

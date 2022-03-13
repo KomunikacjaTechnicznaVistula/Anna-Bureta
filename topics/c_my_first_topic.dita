@@ -25,6 +25,7 @@
                 </tbody>
             </tgroup>
         </table>
-        <p>First</p>
+        <p>This is my web page. <xref href="http://www.sworn-translator.pl" format="html"
+                scope="external"/></p>
     </conbody>
 </concept>

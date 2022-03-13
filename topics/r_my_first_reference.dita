@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_my_first_reference">
+    <title>my first reference</title>
+    <shortdesc/>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_b2s_qvz_vsb">
+            <title>My first table</title>
+            <desc>This is my table description</desc>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                <colspec colname="c2" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

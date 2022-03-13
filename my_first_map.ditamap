@@ -11,26 +11,26 @@
     <reltable>
         <relrow>
             <relcell>
-                <topicref href="../topics/c_my_first_topic.dita"/>
+                <topicref href="topics/c_my_first_topic.dita"/>
             </relcell>
             <relcell>
-                <topicref href="../topics/t_doing_something.dita"/>
-            </relcell>
-        </relrow>
-        <relrow>
-            <relcell>
-                <topicref href="../topics/r_my_first_reference.dita" linking="sourceonly"/>
-            </relcell>
-            <relcell>
-                <topicref href="../topics/c_my_first_topic.dita"/>
+                <topicref href="topics/t_doing_something.dita"/>
             </relcell>
         </relrow>
         <relrow>
             <relcell>
-                <topicref href="../topics/r_my_first_reference.dita" linking="targetonly"/>
+                <topicref href="topics/r_my_first_reference.dita" linking="sourceonly"/>
             </relcell>
             <relcell>
-                <topicref href="../topics/c_my_first_topic.dita"/>
+                <topicref href="topics/c_my_first_topic.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/r_my_first_reference.dita" linking="targetonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/c_my_first_topic.dita"/>
             </relcell>
         </relrow>
     </reltable>

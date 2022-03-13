@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>topics/c_my_first_topic.html</loc>
-      <lastmod>2022-03-13T11:40:36Z</lastmod>
+      <loc>topics/r_cookbook.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
    </url>
    <url>
-      <loc>topics/r_my_first_reference.html</loc>
-      <lastmod>2022-03-13T11:40:36Z</lastmod>
+      <loc>topics/t_fruit_salad.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
    </url>
    <url>
-      <loc>topics/t_doing_something.html</loc>
-      <lastmod>2022-03-13T11:40:36Z</lastmod>
+      <loc>topics/c_strawberries.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/c_oranges.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/c_apples.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/t_veggie_soup.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/c_tomatoes.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/c_peppers.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/c_carrots.html</loc>
+      <lastmod>2022-03-13T08:41:43Z</lastmod>
    </url>
 </urlset>

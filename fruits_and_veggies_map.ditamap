@@ -5,17 +5,25 @@
     <topicmeta>
         <author>Anna Bureta</author>
     </topicmeta>
-    <topicref href="topics/r_cookbook.dita"/>
-    <topicref href="topics/t_fruit_salad.dita">
-        <topicref href="topics/c_strawberries.dita"/>
-        <topicref href="topics/c_oranges.dita"/>
-        <topicref href="topics/c_apples.dita"/>
+    <topicref href="topics/c_strawberries.dita">
+        <topicref href="topics/t_fruit_salad.dita"/>
     </topicref>
-    <topicref href="topics/t_veggie_soup.dita">
-        <topicref href="topics/c_tomatoes.dita"/>
-        <topicref href="topics/c_peppers.dita"/>
-        <topicref href="topics/c_carrots.dita"/>
+    <topicref href="topics/c_oranges.dita">
+        <topicref href="topics/t_fruit_salad.dita"/>
     </topicref>
+    <topicref href="topics/c_apples.dita">
+        <topicref href="topics/t_fruit_salad.dita"/>
+    </topicref>
+    <topicref href="topics/c_tomatoes.dita">
+        <topicref href="topics/t_veggie_soup.dita"/>
+    </topicref>
+    <topicref href="topics/c_peppers.dita">
+        <topicref href="topics/t_veggie_soup.dita"/>
+    </topicref>
+    <topicref href="topics/c_carrots.dita">
+        <topicref href="topics/t_veggie_soup.dita"/>
+    </topicref>
+    <topicref href="topics/r_calorie%20table.dita"/>
     <reltable title="Reltable">
         <relrow>
             <relcell>
@@ -25,6 +33,7 @@
             </relcell>
             <relcell>
                 <topicref href="topics/t_fruit_salad.dita"/>
+                <topicref href="topics/r_calorie%20table.dita"/>
             </relcell>
         </relrow>
         <relrow>
@@ -35,6 +44,7 @@
             </relcell>
             <relcell>
                 <topicref href="topics/t_veggie_soup.dita"/>
+                <topicref href="topics/r_calorie%20table.dita"/>
             </relcell>
         </relrow>
         <relrow>
@@ -42,8 +52,8 @@
                 <topicref href="topics/t_fruit_salad.dita"/>
                 <topicref href="topics/t_veggie_soup.dita"/>
             </relcell>
-            <relcell>
-                <topicref href="topics/r_cookbook.dita" linking="targetonly"/>
+            <relcell linking="targetonly">
+                <topicref href="topics/r_calorie%20table.dita" linking="targetonly"/>
             </relcell>
         </relrow>
     </reltable>

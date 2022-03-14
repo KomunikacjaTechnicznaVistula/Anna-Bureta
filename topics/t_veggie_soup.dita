@@ -2,14 +2,36 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_veggie_soup">
     <title>veggie soup</title>
-    <shortdesc/>
+    <shortdesc>meal example</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context>A step-by-step recipe.<p/></context>
         <steps>
             <step>
-                <cmd/>
+                <cmd>Peel the carrots.</cmd>
+            </step>
+            <step>
+                <cmd>Wash the tomatoes and the peppers.</cmd>
+            </step>
+            <step>
+                <cmd>Cut the veggies into neat 3cm cubes.</cmd>
+            </step>
+            <step>
+                <cmd>Pour water into a pot.</cmd>
+            </step>
+            <step>
+                <cmd>Boil the water.</cmd>
+            </step>
+            <step>
+                <cmd>Add the carrots and the peppers.</cmd>
+            </step>
+            <step>
+                <cmd>Boil the carrots and the peppers for 5 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Add the tomatoes.</cmd>
+            </step>
+            <step>
+                <cmd>Boil for 10 minutes.</cmd>
             </step>
         </steps>
     </taskbody>

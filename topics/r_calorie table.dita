@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_cookbook">
+    <title>calorie table</title>
+    <shortdesc>Calorie intake for the fruits, the veggies, and the meals.</shortdesc>
+    <refbody>
+        <simpletable relcolwidth="1* 1*" id="simpletable_iwn_xcr_wsb">
+            <sthead>
+                <stentry>item</stentry>
+                <stentry>calories in 100 grams</stentry>
+            </sthead>
+            <strow>
+                <stentry>apple</stentry>
+                <stentry>52</stentry>
+            </strow>
+            <strow>
+                <stentry>carrot</stentry>
+                <stentry>41</stentry>
+            </strow>
+            <strow>
+                <stentry>orange</stentry>
+                <stentry>47</stentry>
+            </strow>
+            <strow>
+                <stentry>pepper</stentry>
+                <stentry>26</stentry>
+            </strow>
+            <strow>
+                <stentry>strawberry</stentry>
+                <stentry>32</stentry>
+            </strow>
+            <strow>
+                <stentry>tomato</stentry>
+                <stentry>17</stentry>
+            </strow>
+            <strow>
+                <stentry>fruit salad</stentry>
+                <stentry>50</stentry>
+            </strow>
+            <strow>
+                <stentry>veggie soup</stentry>
+                <stentry>19</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

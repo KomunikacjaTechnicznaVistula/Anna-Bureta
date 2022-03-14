@@ -2,14 +2,28 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_fruit_salad">
     <title>fruit salad</title>
-    <shortdesc/>
+    <shortdesc>meal example</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context>A step-by-step recipe.<p><image href="../images/fruit%20salad.jpg" scale="50"
+                    id="image_g45_mlr_wsb"/></p></context>
         <steps>
             <step>
-                <cmd/>
+                <cmd>Peel the oranges.</cmd>
+            </step>
+            <step>
+                <cmd>Wash the apples.</cmd>
+            </step>
+            <step>
+                <cmd>Rinse the strawberries with water.</cmd>
+            </step>
+            <step>
+                <cmd>Cut all the ingredients into neat 2-3cm cubes.</cmd>
+            </step>
+            <step>
+                <cmd>Mix the fruits in a bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Add some lemon juice.</cmd>
             </step>
         </steps>
     </taskbody>

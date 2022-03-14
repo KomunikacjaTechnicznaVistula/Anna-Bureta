@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Test\OneDrive\Dokumenty\GitHub\Anna-Bureta\temp\topics?><?workdir-uri file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="r_cookbook" specializations="@props/deliveryTarget" xtrc="reference:1;3:28" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">calorie table</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">Calorie intake for the fruits, the veggies, and the meals.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/fruits_and_veggies_map.ditamap">Anna Bureta</author></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+        <simpletable class="- topic/simpletable " id="simpletable_iwn_xcr_wsb" relcolwidth="1* 1*" xtrc="simpletable:1;7:71" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;8:21" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1" xtrc="stentry:1;9:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">item</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1" xtrc="stentry:2;10:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">calories in 100 grams</stentry>
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;12:20" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2" xtrc="stentry:3;13:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">tomato</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2" xtrc="stentry:4;14:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">17</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;16:20" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3" xtrc="stentry:5;17:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">strawberry</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3" xtrc="stentry:6;18:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">32</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;20:20" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4" xtrc="stentry:7;21:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">fruit salad</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4" xtrc="stentry:8;22:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">50</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;24:20" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5" xtrc="stentry:9;25:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">veggie soup</stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5" xtrc="stentry:10;26:26" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHub/Anna-Bureta/topics/r_calorie%20table.dita">19</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

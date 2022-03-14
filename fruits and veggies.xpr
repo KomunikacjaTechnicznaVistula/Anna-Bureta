@@ -96,10 +96,10 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/ashes</String>
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>ashes-with-colors.opt</String>
+                                            <String>oxygen-tiles.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
                                             <Boolean>false</Boolean>

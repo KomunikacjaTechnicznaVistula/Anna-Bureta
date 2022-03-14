@@ -4,6 +4,8 @@
     <title>tomatoes</title>
     <shortdesc/>
     <conbody>
-        <p/>
+        <p>Tomatoes are not only red. You can also find yellow, brown and green ones.</p>
+        <image placement="break" href="../images/577px-Tomato_je.jpg" scale="50"
+            id="image_nxy_gmr_wsb"/>
     </conbody>
 </concept>

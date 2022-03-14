@@ -24,7 +24,7 @@
         <topicref href="topics/t_veggie_soup.dita"/>
     </topicref>
     <topicref href="topics/r_calorie%20table.dita"/>
-    <topicref href="docs/fruits_and_veggies_map.pdf" format="pdf" navtitle="PDF document"/>
+    <topicref href="docs/fruits_and_veggies_map.pdf" format="pdf" navtitle="PDF document" scope="external"/>
     <reltable title="Reltable">
         <relrow>
             <relcell>

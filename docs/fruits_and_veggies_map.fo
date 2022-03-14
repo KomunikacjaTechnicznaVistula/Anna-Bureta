@@ -133,8 +133,8 @@
                             </fo:block></fo:block-container>
                             <fo:block-container font-weight="bold" space-after="0.5em" margin-left="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">
                                 <fo:block>
-                                    <fo:block text-align-last="justify"><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">Chapter </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">8</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"/><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">. </fo:basic-link></fo:inline></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
-                                        document</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:leader leader-pattern="dots"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:page-number-citation ref-id="docs/fruits_and_veggies_map.pdf"/></fo:basic-link></fo:inline></fo:basic-link></fo:block>
+                                    <fo:block><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">Chapter </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">8</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"/><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">. </fo:basic-link></fo:inline></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
+                                        document</fo:basic-link></fo:block>
                                 </fo:block>
                             </fo:block></fo:block-container>
                         </fo:block>
@@ -206,14 +206,6 @@
                                             <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
                                                 <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3">calorie
                                                   table</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3"><fo:inline font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block font-weight="700" page-break-after="avoid">Related
-                                                information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
-                                                  document</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline font-style="italic"/></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
                                             </fo:list-block>
                                         </fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
@@ -290,14 +282,6 @@
                                                   table</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3"><fo:inline font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
                                             </fo:list-block>
                                         </fo:block></fo:block-container>
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block font-weight="700" page-break-after="avoid">Related
-                                                information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
-                                                  document</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline font-style="italic"/></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                 </fo:block>
                             </fo:block>
@@ -369,14 +353,6 @@
                                             <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
                                                 <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3">calorie
                                                   table</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3"><fo:inline font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block font-weight="700" page-break-after="avoid">Related
-                                                information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
-                                                  document</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline font-style="italic"/></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
                                             </fo:list-block>
                                         </fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
@@ -464,14 +440,6 @@
                                                   table</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3"><fo:inline font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
                                             </fo:list-block>
                                         </fo:block></fo:block-container>
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block font-weight="700" page-break-after="avoid">Related
-                                                information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
-                                                  document</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline font-style="italic"/></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                 </fo:block>
                             </fo:block>
@@ -555,14 +523,6 @@
                                                   table</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3"><fo:inline font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
                                             </fo:list-block>
                                         </fo:block></fo:block-container>
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block font-weight="700" page-break-after="avoid">Related
-                                                information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
-                                                  document</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline font-style="italic"/></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
                                     </fo:block></fo:block-container>
                                 </fo:block>
                             </fo:block>
@@ -644,14 +604,6 @@
                                             <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
                                                 <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3">calorie
                                                   table</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" fox:alt-text="Calorie intake for the fruits, the veggies, and the meals." internal-destination="unique_3"><fo:inline font-style="italic"><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"> (on page </fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3"><fo:page-number-citation ref-id="unique_3"/></fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" internal-destination="unique_3">)</fo:basic-link></fo:inline></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
-                                            </fo:list-block>
-                                        </fo:block></fo:block-container>
-                                        <fo:block-container space-after="0em" space-before="0em" xml:lang="en"><fo:block end-indent="0" start-indent="0">
-                                            <fo:block font-weight="700" page-break-after="avoid">Related
-                                                information</fo:block>
-                                            <fo:list-block relative-align="baseline" provisional-label-separation="0" provisional-distance-between-starts="0" space-after="0em" space-before="0">
-                                                <fo:list-item space-after="0" space-before="0"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"/></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline color="rgb(81 , 133 , 203)"><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf">PDF
-                                                  document</fo:basic-link><fo:basic-link show-destination="new" indicate-destination="true" external-destination="docs/fruits_and_veggies_map.pdf"><fo:inline font-style="italic"/></fo:basic-link></fo:inline></fo:block></fo:list-item-body></fo:list-item>
                                             </fo:list-block>
                                         </fo:block></fo:block-container>
                                     </fo:block></fo:block-container>

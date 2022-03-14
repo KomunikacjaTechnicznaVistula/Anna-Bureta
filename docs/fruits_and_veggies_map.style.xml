@@ -167,10 +167,10 @@
                                         Bureta</div>
                                 </div>
                             </div>
-                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" format="pdf" href="docs/fruits_and_veggies_map.pdf" is-chapter="true" navtitle="PDF document">
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" format="pdf" href="docs/fruits_and_veggies_map.pdf" is-chapter="true" navtitle="PDF document" scope="external">
                                 <div class="- map/topicmeta topicmeta" css:display="block">
-                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="docs/fruits_and_veggies_map.pdf" css:text-align-last="justify" href="docs/fruits_and_veggies_map.pdf"><css:before css:display="inline" css:link="docs/fruits_and_veggies_map.pdf"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="8"/><css:text/><css:text>. </css:text></css:before>PDF
-                                        document<css:after css:display="inline" css:link="docs/fruits_and_veggies_map.pdf"><css:leader pattern="."/><css:target-counter url-fragment="docs/fruits_and_veggies_map.pdf"/></css:after></div>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="docs/fruits_and_veggies_map.pdf" href="docs/fruits_and_veggies_map.pdf"><css:before css:display="inline" css:link="docs/fruits_and_veggies_map.pdf"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="8"/><css:text/><css:text>. </css:text></css:before>PDF
+                                        document</div>
                                 </div>
                             </div>
                         </div>
@@ -252,14 +252,6 @@
                                             <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
                                                 <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="#unique_3" css:oxy-alt-text="Calorie intake for the fruits, the veggies, and the meals." format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" title="Calorie intake for the fruits, the veggies, and the meals." type="reference">calorie
                                                   table<css:after css:display="inline" css:font-style="italic" css:link="#unique_3"><css:text> (on page </css:text><css:target-counter url-fragment="unique_3"/><css:text>)</css:text></css:after></a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0em" css:margin-top="0em" outputclass="relinfo" xml:lang="en">
-                                            <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
-                                                information</strong>
-                                            <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
-                                                <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="docs/fruits_and_veggies_map.pdf" format="pdf" href="docs/fruits_and_veggies_map.pdf" mapclass="- map/topicref " role="friend" scope="local">PDF
-                                                  document<css:after css:display="inline" css:font-style="italic" css:link="docs/fruits_and_veggies_map.pdf"/></a></li>
                                             </ul>
                                         </div>
                                     </nav>
@@ -346,14 +338,6 @@
                                                   table<css:after css:display="inline" css:font-style="italic" css:link="#unique_3"><css:text> (on page </css:text><css:target-counter url-fragment="unique_3"/><css:text>)</css:text></css:after></a></li>
                                             </ul>
                                         </div>
-                                        <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0em" css:margin-top="0em" outputclass="relinfo" xml:lang="en">
-                                            <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
-                                                information</strong>
-                                            <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
-                                                <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="docs/fruits_and_veggies_map.pdf" format="pdf" href="docs/fruits_and_veggies_map.pdf" mapclass="- map/topicref " role="friend" scope="local">PDF
-                                                  document<css:after css:display="inline" css:font-style="italic" css:link="docs/fruits_and_veggies_map.pdf"/></a></li>
-                                            </ul>
-                                        </div>
                                     </nav>
                                 </div>
                             </article>
@@ -435,14 +419,6 @@
                                             <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
                                                 <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="#unique_3" css:oxy-alt-text="Calorie intake for the fruits, the veggies, and the meals." format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" title="Calorie intake for the fruits, the veggies, and the meals." type="reference">calorie
                                                   table<css:after css:display="inline" css:font-style="italic" css:link="#unique_3"><css:text> (on page </css:text><css:target-counter url-fragment="unique_3"/><css:text>)</css:text></css:after></a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0em" css:margin-top="0em" outputclass="relinfo" xml:lang="en">
-                                            <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
-                                                information</strong>
-                                            <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
-                                                <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="docs/fruits_and_veggies_map.pdf" format="pdf" href="docs/fruits_and_veggies_map.pdf" mapclass="- map/topicref " role="friend" scope="local">PDF
-                                                  document<css:after css:display="inline" css:font-style="italic" css:link="docs/fruits_and_veggies_map.pdf"/></a></li>
                                             </ul>
                                         </div>
                                     </nav>
@@ -540,14 +516,6 @@
                                                   table<css:after css:display="inline" css:font-style="italic" css:link="#unique_3"><css:text> (on page </css:text><css:target-counter url-fragment="unique_3"/><css:text>)</css:text></css:after></a></li>
                                             </ul>
                                         </div>
-                                        <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0em" css:margin-top="0em" outputclass="relinfo" xml:lang="en">
-                                            <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
-                                                information</strong>
-                                            <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
-                                                <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="docs/fruits_and_veggies_map.pdf" format="pdf" href="docs/fruits_and_veggies_map.pdf" mapclass="- map/topicref " role="friend" scope="local">PDF
-                                                  document<css:after css:display="inline" css:font-style="italic" css:link="docs/fruits_and_veggies_map.pdf"/></a></li>
-                                            </ul>
-                                        </div>
                                     </nav>
                                 </div>
                             </article>
@@ -641,14 +609,6 @@
                                                   table<css:after css:display="inline" css:font-style="italic" css:link="#unique_3"><css:text> (on page </css:text><css:target-counter url-fragment="unique_3"/><css:text>)</css:text></css:after></a></li>
                                             </ul>
                                         </div>
-                                        <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0em" css:margin-top="0em" outputclass="relinfo" xml:lang="en">
-                                            <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
-                                                information</strong>
-                                            <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
-                                                <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="docs/fruits_and_veggies_map.pdf" format="pdf" href="docs/fruits_and_veggies_map.pdf" mapclass="- map/topicref " role="friend" scope="local">PDF
-                                                  document<css:after css:display="inline" css:font-style="italic" css:link="docs/fruits_and_veggies_map.pdf"/></a></li>
-                                            </ul>
-                                        </div>
                                     </nav>
                                 </div>
                             </article>
@@ -740,14 +700,6 @@
                                             <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
                                                 <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="#unique_3" css:oxy-alt-text="Calorie intake for the fruits, the veggies, and the meals." format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" title="Calorie intake for the fruits, the veggies, and the meals." type="reference">calorie
                                                   table<css:after css:display="inline" css:font-style="italic" css:link="#unique_3"><css:text> (on page </css:text><css:target-counter url-fragment="unique_3"/><css:text>)</css:text></css:after></a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0em" css:margin-top="0em" outputclass="relinfo" xml:lang="en">
-                                            <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
-                                                information</strong>
-                                            <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0em" css:margin-top="0" css:padding-left="0">
-                                                <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="docs/fruits_and_veggies_map.pdf" format="pdf" href="docs/fruits_and_veggies_map.pdf" mapclass="- map/topicref " role="friend" scope="local">PDF
-                                                  document<css:after css:display="inline" css:font-style="italic" css:link="docs/fruits_and_veggies_map.pdf"/></a></li>
                                             </ul>
                                         </div>
                                     </nav>

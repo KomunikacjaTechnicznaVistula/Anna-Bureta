@@ -55,7 +55,6 @@
             </relcell>
             <relcell linking="targetonly">
                 <topicref href="topics/r_calorie%20table.dita" linking="targetonly"/>
-                <topicref href="docs/fruits_and_veggies_map.pdf" format="pdf" navtitle="PDF document"/>
             </relcell>
         </relrow>
     </reltable>
